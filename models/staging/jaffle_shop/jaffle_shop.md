@@ -9,6 +9,5 @@ One of the following values:
 | completed      | Order has been received by customers             |
 | return pending | Customer indicated they want to return this item |
 | returned       | Item has been returned                           |
-|===================================================================|
 
 {% enddocs %}
