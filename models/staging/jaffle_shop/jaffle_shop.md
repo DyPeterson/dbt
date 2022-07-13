@@ -1,7 +1,6 @@
 {% docs order_status %}
 	
 One of the following values: 
- ____________________________________________________________________
 | status         | definition                                       |
 |----------------|--------------------------------------------------|
 | placed         | Order placed, not yet shipped                    |
